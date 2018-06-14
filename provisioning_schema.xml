@@ -1,0 +1,29 @@
+<pnp:ProvisioningTemplate
+           xmlns:pnp="http://schemas.dev.office.com/PnP/2015/08/ProvisioningSchema"
+           ID="xsd:ID"
+           Version="xsd:decimal"
+           ImagePreviewUrl="xsd:string"
+           DisplayName="xsd:string"
+           Description="xsd:string">
+   <pnp:Properties />
+   <pnp:SitePolicy />
+   <pnp:RegionalSettings />
+   <pnp:SupportedUILanguages />
+   <pnp:AuditSettings />
+   <pnp:PropertyBagEntries />
+   <pnp:Security />
+   <pnp:SiteFields />
+   <pnp:ContentTypes />
+   <pnp:Lists />
+   <pnp:Features />
+   <pnp:CustomActions />
+   <pnp:Files />
+   <pnp:Pages />
+   <pnp:TermGroups />
+   <pnp:ComposedLook />
+   <pnp:Workflows />
+   <pnp:SearchSettings />
+   <pnp:Publishing />
+   <pnp:AddIns />
+   <pnp:Providers />
+</pnp:ProvisioningTemplate>
